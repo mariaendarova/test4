@@ -2,11 +2,11 @@
   "ProjectName": "r211",
   "ProjectGuid": "223d5d57-8ce3-4939-aaa6-e1f0d3928d8e",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.r211",
+  "AppIdentifier": "com.telerik.IceTestAppDragonNew",
   "DisplayName": "r211",
   "Author": "",
   "Description": "r211",
-  "BundleVersion": "1.0",
+  "BundleVersion": "7.2",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
@@ -41,5 +41,6 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ]
+  ],
+  "iOSDeploymentTarget": "7.1"
 }
